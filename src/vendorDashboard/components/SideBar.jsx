@@ -48,10 +48,10 @@ const SideBar = ({
                     max-sm:flex
 
                     fixed
-                    top-[92px]
+                    top-23
                     right-4
 
-                    z-[60]
+                    z-60
 
                     w-11
                     h-11
@@ -103,7 +103,7 @@ const SideBar = ({
                         bg-black/40
                         backdrop-blur-[2px]
 
-                        z-[45]
+                        z-45
 
                         max-sm:block
                     "
@@ -131,7 +131,7 @@ const SideBar = ({
 
                     min-h-[88vh]
 
-                    z-[50]
+                    z-50
 
                     max-sm:fixed
                     max-sm:top-0
